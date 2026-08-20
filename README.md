@@ -1,6 +1,6 @@
 ## `☕ Java - это объектно-ориентированный язык программирования общего назначения, созданный с упором на переносимость, надежность и защиту`
 ___
-### [Термины Java](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%E2%84%B9%EF%B8%8F%20%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B%20Java.md)
+### [1.1 - Maven, pom.xml, зависимости](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/1%20-%20%E2%93%82%EF%B8%8F%20Maven%2C%20pom.xml%2C%20%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D0%B6%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%86%D0%B8%D0%BA%D0%BB%20%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8.md)
 ### [Аналогии с реальной жизнью](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%F0%9F%94%8E%20%D0%90%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.md)
 ___
 ## Изучено:
