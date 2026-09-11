@@ -8,3 +8,4 @@
 ### [🎭 [1.6] Полиморфизм, Overriding, Overloading](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core+%20%7C%20JDBC/%F0%9F%8E%AD%20%D0%9F%D0%BE%D0%BB%D0%B8%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC,%20Overriding,%20Overloading.md)
 ### [🏛️ [1.7] Абстрактные классы](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/%F0%9F%8F%9B%EF%B8%8F%20%D0%90%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B.md)
 ### [🔌 [1.8] Интерфейсы](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/%F0%9F%94%8C%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B.md)
+### [👤 [1.9] `Object`, `toString()`, `equals()`, `hashCode()`](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/%F0%9F%91%A4%20Object.md)
