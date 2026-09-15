@@ -10,3 +10,4 @@
 ### [🔌 [1.8] Интерфейсы](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/%F0%9F%94%8C%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B.md)
 ### [👤 [1.9] `Object`, `toString()`, `equals()`, `hashCode()`](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/%F0%9F%91%A4%20Object.md)
 ### [✔️ [1.10] Контракт `equals()` и `hashCode()`](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/%E2%9C%94%EF%B8%8F%20%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82%20equals()%20%D0%B8%20hashCode().md)
+### [🚫 [1.11] Исключения](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/%F0%9F%9A%AB%20%D0%98%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2C%20try%2C%20catch%2C%20finally.md)
