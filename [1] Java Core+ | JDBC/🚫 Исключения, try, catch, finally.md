@@ -1,4 +1,4 @@
-## 🚫 Исключения
+<img width="692" height="528" alt="image" src="https://github.com/user-attachments/assets/1fedbf06-f0b9-47f7-811f-d86c80d4e6e6" />## 🚫 Исключения
 ### Исключение - это...
 Объект, который представляет незапланированную или проблемную ситуацию, возникающие во время работы программы и прерывающие её нормальный ход.
 
@@ -22,7 +22,7 @@
 
 ## 🥊 `try`
 ### Опасный код помещается в `try`:
-![Опасный код помещается в try](https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=a11y-dark&wt=none&l=text%2Fx-java&width=346&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=false&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=try%2520%257B%250A%2520%2520%2520%2520int%2520result%2520%253D%2520a%2520%252F%2520b%253B%250A%257D%250A%2520%2520return%2520go%28f%252C%2520seed%252C%2520%255B%255D%29%250A%257D)
+![Опасный код помещается в try](https://carbon.now.sh/?bg=rgba%2528171%252C+184%252C+195%252C+1%2529&t=a11y-dark&wt=none&l=text%252Fx-java&width=346&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=false&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%2525&si=false&es=2x&wm=false&code=try%252520%25257B%25250A%252520%252520%252520%252520int%252520result%252520%25253D%252520a%252520%25252F%252520b%25253B%25250A%25257D%25250A%252520%252520return%252520go%2528f%25252C%252520seed%25252C%252520%25255B%25255D%2529%25250A%25257D)
 
 Мы как бы говорим: Попытайся выполнить этот код. Но одного `try` недостаточно.
 
