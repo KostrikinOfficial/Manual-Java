@@ -45,13 +45,7 @@
 
 ## 🏁 `finally`
 ### `finally` - блок, который используется для кода, который должен выполняться после `try/catch`:
-    try {
-        int result = a / b;
-    } catch (ArithmeticException e) {
-        System.out.println(e.getMessage);
-    } finally {
-        System.out.println("finally");
-    }
+![](finally.png)
 
 Главная идея: `finally` используется для действий, которые нужно выполнить независимо от того, произошла ошибка или нет.
 
