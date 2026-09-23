@@ -22,7 +22,7 @@
 
 ## 🥊 `try`
 ### Опасный код помещается в `try`:
-![Опасный код помещается в try](https://carbon.now.sh/?bg=rgba%2528171%252C+184%252C+195%252C+1%2529&t=a11y-dark&wt=none&l=text%252Fx-java&width=346&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=false&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%2525&si=false&es=2x&wm=false&code=try%252520%25257B%25250A%252520%252520%252520%252520int%252520result%252520%25253D%252520a%252520%25252F%252520b%25253B%25250A%25257D%25250A%252520%252520return%252520go%2528f%25252C%252520seed%25252C%252520%25255B%25255D%2529%25250A%25257D)
+![Опасный код помещается в try](blob:https://yapx.ru/6487f066-daec-4a34-856e-18df7abc539b)
 
 Мы как бы говорим: Попытайся выполнить этот код. Но одного `try` недостаточно.
 
