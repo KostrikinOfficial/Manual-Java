@@ -51,18 +51,8 @@
 
 ## ❓ Что происходит при исключении?
 ### Рассмотрим:
+![](trycatch.png)
 
-    System.out.println("1");
-
-    try {
-        System.out.println("2");
-        int x = 10 / 0;
-        System.out.println("3");
-    } catch (ArithmeticException e) {
-        System.out.println("4");
-    }
-    
-    System.out.println("5");
 ### Результат:
     1
     2
