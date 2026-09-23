@@ -22,9 +22,7 @@
 
 ## 🥊 `try`
 ### Опасный код помещается в `try`:
-    try {
-        int result = a / b;
-    }
+![Опасный код помещается в try](https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=a11y-dark&wt=none&l=text%2Fx-java&width=346&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=false&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=try%2520%257B%250A%2520%2520%2520%2520int%2520result%2520%253D%2520a%2520%252F%2520b%253B%250A%257D%250A%2520%2520return%2520go%28f%252C%2520seed%252C%2520%255B%255D%29%250A%257D)
 
 Мы как бы говорим: Попытайся выполнить этот код. Но одного `try` недостаточно.
 
