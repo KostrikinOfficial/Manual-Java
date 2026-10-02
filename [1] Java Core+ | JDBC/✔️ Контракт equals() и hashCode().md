@@ -38,15 +38,16 @@
 
     @Override
     public boolean equals(Object obj) {
-    if (this == obj) {
-    return true;
-    }
+        if (this == obj) {
+            return true;
+        }
     
-        if (!(obj instanceof Student other)) {
+        if (!(obj instanceof Student)) {
             return false;
         }
     
-        return id == other.id;
+        Student other = (Student) obj;
+        return this.id == other.id;
     }
 
 Теперь `hashCode()` должен использовать тот же значимый признак:
