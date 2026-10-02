@@ -13,3 +13,4 @@
 ### [🚫 [1.11] Исключения, `try`, `catch`, `finally`](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/%F0%9F%9A%AB%20%D0%98%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2C%20try%2C%20catch%2C%20finally.md)
 ### [⚠️ [1.12] `throw`, `throws`](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/%E2%9A%A0%EF%B8%8Fthrow%2C%20throws.md)
 ### [🚨 [1.13] Собственные исключения, `try-with-resources`](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/%F0%9F%9A%A8%20%D0%A1%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2C%20try-with-resources.md)
+### [📚 [1.14] `List`, `ArrayList`](https://github.com/KostrikinOfficial/Manual-Java/blob/main/%5B1%5D%20Java%20Core%2B%20%7C%20JDBC/%F0%9F%93%9A%20List%2C%20ArrayList.md)
